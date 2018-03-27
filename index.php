@@ -12,7 +12,7 @@
 		<meta charset="utf-8">
 		<title><?php echo $json_data['user']['username']; ?>'s Code School Badges</title>
 		<link href="https://fonts.googleapis.com/css?family=Coda" rel="stylesheet">
-		<link rel="stylesheet" href="/php/css/grid.css" media="screen" title="no title" charset="utf-8">
+		<link rel="stylesheet" href="css/grid.css" media="screen" title="no title" charset="utf-8">
 		
 	</head>
 	<body>
